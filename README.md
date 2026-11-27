@@ -1,4 +1,4 @@
-# Python & AI Backend Developer
+# Python & AI Backend and Frontend Developer
 
 Building production-ready web services, REST APIs, and applied AI applications with **Python**, **FastAPI**, **PostgreSQL**, and **LLM/RAG** pipelines.
 
