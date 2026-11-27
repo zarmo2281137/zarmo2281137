@@ -9,9 +9,8 @@ Building production-ready web services, REST APIs, and applied AI applications w
 | Project | What It Does | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **PyPath AI** | Full-stack interactive learning platform (56 lessons) with user auth, progress tracking, quizzes, interview trainer, and an in-browser Python/CLI playground (Monaco Editor + Pyodide) | `Python` `FastAPI` `PostgreSQL` `Tailwind` | [Repository](https://github.com/zarmo2281137/PyPath-AI) |
-| **QuickVision** | Python computer vision & image processing project | `Python` | [Repository](https://github.com/zarmo2281137/QuickVision) |
-| **Lingua Flow** | Modern web application for language learning | `TypeScript` | [Repository](https://github.com/zarmo2281137/lingua-flow) |
-| **English Platform** | Educational platform for learning English | `Java` | [Repository](https://github.com/zarmo2281137/english-platform) |
+| **QuickVision** | Hotkey screenshot capture & AI vision assistant powered by Gemini, Groq, and Telegram | `Python` `Gemini` `Groq` | [Repository](https://github.com/zarmo2281137/QuickVision) |
+| **Lingua Flow** | English learning platform with CEFR A1-C1 vocabulary, multi-speaker listening tracks, and interactive exercises | `Next.js` `TypeScript` | [Repository](https://github.com/zarmo2281137/lingua-flow) |
 
 ---
 
